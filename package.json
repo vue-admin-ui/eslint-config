@@ -1,6 +1,6 @@
 {
   "name": "@vue-admin-ui/eslint-config",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "An ESLint shareable config for Vue.js projects",
   "main": "index.js",
   "scripts": {

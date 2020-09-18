@@ -16,6 +16,6 @@ Add config to package.json or other ESLint configs.
 
 ```
 "eslintConfig": {
-  "extends": "vue-admin-ui"
+  "extends": "@vue-admin-ui"
 }
 ```
