@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vue-admin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An ESLint shareable config for Vue.js projects",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/idmytro/eslint-config-vue-admin.git"
+    "url": "https://github.com/Vue-Admin/eslint-config.git"
   },
   "keywords": [
     "eslint",
