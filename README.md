@@ -4,7 +4,7 @@ Shareable code style and best practice for Vue.js projects.
 
 ## Install
 
-`npm i -D eslint-config-vue-admin eslint eslint-config-semistandard eslint-config-standard eslint-plugin-compat eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard eslint-plugin-vue@7.0.0-beta.2`
+`npm i -D @vue-admin-ui/eslint-config eslint eslint-config-semistandard eslint-config-standard eslint-plugin-compat eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard eslint-plugin-vue@7.0.0-beta.2`
 
 or
 
