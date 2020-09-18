@@ -1,4 +1,4 @@
-# Eslint Config Vue Admin
+# Vue Admin UI ESLint Config
 
 Shareable code style and best practice for Vue.js projects.
 
