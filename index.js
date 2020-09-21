@@ -22,6 +22,11 @@ module.exports = {
       functions: 'always-multiline',
     }],
     'no-prototype-builtins': 'off',
+    'prefer-template': 2,
+    'vue/component-name-in-template-casing': ['error', 'kebab-case', {
+      registeredComponentsOnly: true,
+      ignores: [],
+    }],
     'vue/html-self-closing': ['error', {
       html: {
         void: 'never',
@@ -65,5 +70,6 @@ module.exports = {
       ],
     }],
     'vue/no-v-html': 'off',
+    'vue/prefer-template': 2,
   },
 };
