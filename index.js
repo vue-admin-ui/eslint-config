@@ -21,6 +21,7 @@ module.exports = {
       exports: 'always-multiline',
       functions: 'always-multiline',
     }],
+    'newline-per-chained-call': [2, { ignoreChainWithDepth: 1 }],
     'no-prototype-builtins': 'off',
     'prefer-template': 2,
     'vue/component-name-in-template-casing': ['error', 'kebab-case', {
