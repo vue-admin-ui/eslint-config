@@ -4,6 +4,7 @@ module.exports = {
   },
   extends: [
     'plugin:compat/recommended',
+    'plugin:promise/recommended',
     'plugin:vue/recommended',
     'semistandard',
   ],
@@ -12,6 +13,7 @@ module.exports = {
   },
   plugins: [
     'vue',
+    'promise',
   ],
   rules: {
     'comma-dangle': ['error', {
